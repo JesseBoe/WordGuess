@@ -1,0 +1,9 @@
+body{
+    background-image: url("../images/bg.png");
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position-x: 50%;
+}
+h1{
+    color: white;
+}
